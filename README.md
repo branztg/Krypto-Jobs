@@ -1,7 +1,5 @@
 ## Unit 19 Homework: Cryptocurrency Wallet
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
-
 ### Background
 
 You work at a startup that is building a new and disruptive platform called KryptoJobs2Go. KryptoJobs2Go is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. As KryptoJobs2Go’s lead developer, you have been tasked with integrating the Ethereum blockchain network into the application in order to enable your customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
@@ -112,9 +110,13 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 ## Submission
 
-* Upload the files for this assignment to your GitHub repository.
+### Accounts Before Transaction
+![hw19-1](https://github.com/branztg/Krypto-Jobs/assets/100908888/a9e6d48c-738e-4439-8e1b-1fa7e001db1d)
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+### Accounts After Transaction
+![hw19-2](https://github.com/branztg/Krypto-Jobs/assets/100908888/7fc62e97-6f1b-49ca-9137-6b9661ebe039)
+
+![hw19-3](https://github.com/branztg/Krypto-Jobs/assets/100908888/a6fdad8e-c767-48cd-a818-6bd58165c6e0)
 
 ---
 
